@@ -1,1 +1,1 @@
-print("Quick Notes App v1.0")
+print("Quick Notes App v2.0")
